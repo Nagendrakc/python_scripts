@@ -9,6 +9,6 @@ I have plan to write using classes in furture, once i do it, i will upload the s
 
 The script can be used for 
 - Downloading the file which is has build number embedded into file name, without any modification, except http uri
-- With little modification on file selection section, it can traverse inside the directory to pick the file to docnload
+- With little modification on file selection section, it can traverse inside the directory to pick the file to download
 
 
